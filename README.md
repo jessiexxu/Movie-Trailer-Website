@@ -19,4 +19,4 @@ This python file defines the class "Movie" that contains the following instance 
 This python file imports the media.Movie class from media.py and creates the instances to be shown on the movie trailer website.
 
 ### fresh_tomatoes.py
-HTML code forked from Udacity opens the movies page from the movies list defined in entertainment_center.py. See this code in jessiexxu/ud036_StarterCode.
+HTML code forked from Udacity opens the movies page from the movies list defined in entertainment_center.py.
