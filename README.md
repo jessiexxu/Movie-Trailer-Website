@@ -10,6 +10,8 @@ Step 3. Save fresh_tomatoes.py in the same directory as above.
 
 Step 4. Run the python code entertainment_center.py.
 
+## Code
+
 ### media.py
 This python file defines the class "Movie" that contains the following instance variables: movie title, movie storyline, poster image, and trailer on Youtube.
 
